@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(177, 6, 105);
     font-family: "Audiowide", sans-serif;
 }
 
@@ -36,25 +36,25 @@ p {
 }
 
 a:link {
-    color: blue;
+    color: rgb(29, 184, 176);
     background-color: transparent;
     text-decoration: none;
 }
 
 a:visited {
-    color: blueviolet;
+    color: rgb(111, 47, 170);
     background-color: transparent;
     text-decoration: none;
 }
 
 a:hover {
-    color: red;
+    color: rgb(255, 0, 179);
     background-color: transparent;
     text-decoration: underline;
 }
 
 a:active {
-    color: yellow;
+    color: rgb(109, 24, 112);
     background-color: transparent;
     text-decoration: underline;
 }
